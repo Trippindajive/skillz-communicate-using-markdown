@@ -10,4 +10,4 @@
 
 ###### This is an `<h6>` header, which is the smallest
 
-![Image of Downward Strike](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
